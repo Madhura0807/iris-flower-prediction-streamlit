@@ -1,0 +1,13 @@
+Iris Flower Prediction App
+
+A Streamlit web application that predicts the species of an iris flower using a Random Forest Classifier trained on the Iris dataset.
+
+Technologies Used:
+- Python
+- Streamlit
+- Pandas
+- Scikit-learn
+
+How to Run:
+1. pip install -r requirements.txt
+2. streamlit run classification.py
